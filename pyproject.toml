@@ -1,0 +1,9 @@
+[project]
+name = "tapete"
+version = "0.1.0"
+description = "Algorithms to identify the smallest possible generator image within a seamless pattern."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.10.0.84",
+]
